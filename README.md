@@ -23,5 +23,7 @@
 + ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting, NeurIPS 2023. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/2ac2eac5098dba08208807b65c5851cc-Paper-Conference.pdf) [[Code]](https://github.com/zsyOAOA/ResShift)
 + SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_SeeSR_Towards_Semantics-Aware_Real-World_Image_Super-Resolution_CVPR_2024_paper.pdf) [[Code]](https://github.com/cswry/SeeSR)
 + SeD: Semantic-Aware Discriminator for Image Super-Resolution, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_SeD_Semantic-Aware_Discriminator_for_Image_Super-Resolution_CVPR_2024_paper.pdf) [[Code]](https://github.com/lbc12345/SeD)
++ Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with Comprehensive Quality Assessment, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2408.15218)
++ PathSRGAN: Multi-Supervised Super-Resolution for Cytopathological Images Using Generative Adversarial Network, TMI 2020. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9036984&casa_token=AESOQfFBhYUAAAAA:ximRawz0VOE1JTBz6jD8Uucy6J5mwj-luZlWuwAQZlCRdjeuSf9mrTbnEFIiKzF8kaZBmhE1quId&tag=1)
 ## Metrics
 + FID. [[Paper]](https://arxiv.org/pdf/1711.10337)[[Code]](https://github.com/mseitzer/pytorch-fid)
