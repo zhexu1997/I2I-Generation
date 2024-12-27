@@ -27,3 +27,5 @@
 + PathSRGAN: Multi-Supervised Super-Resolution for Cytopathological Images Using Generative Adversarial Network, TMI 2020. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9036984&casa_token=AESOQfFBhYUAAAAA:ximRawz0VOE1JTBz6jD8Uucy6J5mwj-luZlWuwAQZlCRdjeuSf9mrTbnEFIiKzF8kaZBmhE1quId&tag=1)
 ## Metrics
 + FID. [[Paper]](https://arxiv.org/pdf/1711.10337)[[Code]](https://github.com/mseitzer/pytorch-fid)
+## Projects
++ [[Awesome-Super-Resolution]](https://github.com/ChaofWang/Awesome-Super-Resolution)
