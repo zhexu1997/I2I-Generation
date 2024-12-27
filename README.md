@@ -19,6 +19,7 @@
 + EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations, NeurIPS 2022. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/177d68f4adef163b7b123b5c5adb3c60-Paper-Conference.pdf) [[Code]](https://github.com/ML-GSAI/EGSDE)
 + Contrastive Learning for Unpaired Image-to-Image Translation, ECCV 2020. [[Paper]](https://arxiv.org/pdf/2007.15651) [[Code]](https://github.com/taesungp/contrastive-unpaired-translation?tab=readme-ov-file)
 ### Super-Resolution
++ Arbitrary-steps Image Super-resolution via Diffusion Inversion, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2412.09013) [[Code]](https://github.com/zsyOAOA/InvSR?tab=readme-ov-file)
 + Exploiting Diffusion Prior for Real-World Image Super-Resolution, IJCV 2024. [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02168-7) [[Code]](https://github.com/IceClear/StableSR)
 + ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting, NeurIPS 2023. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/2ac2eac5098dba08208807b65c5851cc-Paper-Conference.pdf) [[Code]](https://github.com/zsyOAOA/ResShift)
 + SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution, CVPR 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_SeeSR_Towards_Semantics-Aware_Real-World_Image_Super-Resolution_CVPR_2024_paper.pdf) [[Code]](https://github.com/cswry/SeeSR)
@@ -28,4 +29,6 @@
 ## Metrics
 + FID. [[Paper]](https://arxiv.org/pdf/1711.10337)[[Code]](https://github.com/mseitzer/pytorch-fid)
 ## Projects
-+ [[Awesome-Super-Resolution]](https://github.com/ChaofWang/Awesome-Super-Resolution)
++ [Awesome-Super-Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution)
+## People
++ [Chen Change Loy](https://scholar.google.co.uk/citations?user=559LF80AAAAJ), MMLab@NTU
