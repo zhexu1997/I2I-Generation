@@ -32,3 +32,4 @@
 + [Awesome-Super-Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution)
 ## People
 + [Chen Change Loy](https://scholar.google.co.uk/citations?user=559LF80AAAAJ), MMLab@NTU
++ [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), CMU.
