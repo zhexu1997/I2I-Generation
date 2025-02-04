@@ -22,6 +22,9 @@
 + Sdedit: Guided image synthesis and editing with stochastic differential equation, ICLR 2022. [[Paper]](https://arxiv.org/pdf/2108.01073)
 + EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations, NeurIPS 2022. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/177d68f4adef163b7b123b5c5adb3c60-Paper-Conference.pdf) [[Code]](https://github.com/ML-GSAI/EGSDE)
 + Contrastive Learning for Unpaired Image-to-Image Translation, ECCV 2020. [[Paper]](https://arxiv.org/pdf/2007.15651) [[Code]](https://github.com/taesungp/contrastive-unpaired-translation?tab=readme-ov-file)
+### Multiple Domain I2I
++ StarGAN v2: Diverse Image Synthesis for Multiple Domains, CVPR 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_StarGAN_v2_Diverse_Image_Synthesis_for_Multiple_Domains_CVPR_2020_paper.pdf) [[Code]](https://github.com/clovaai/stargan-v2)
++ StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation, CVPR 2018. [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf)
 ### Super-Resolution
 + Arbitrary-steps Image Super-resolution via Diffusion Inversion, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2412.09013) [[Code]](https://github.com/zsyOAOA/InvSR?tab=readme-ov-file)
 + Exploiting Diffusion Prior for Real-World Image Super-Resolution, IJCV 2024. [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02168-7) [[Code]](https://github.com/IceClear/StableSR)
