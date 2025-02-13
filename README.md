@@ -13,7 +13,7 @@
 + Diffusion Schrödinger Bridge Matching, NeurIPS 2023. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/c428adf74782c2092d254329b6b02482-Paper-Conference.pdf) [[Code]](https://github.com/yuyang-shi/dsbm-pytorch)
 + I2SB: Image-to-Image Schrodinger Bridge, ICML 2023. [[Paper]](https://arxiv.org/pdf/2302.05872) [[Code]](https://i2sb.github.io/)
 + Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation, CVPR 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tumanyan_Plug-and-Play_Diffusion_Features_for_Text-Driven_Image-to-Image_Translation_CVPR_2023_paper.pdf) [[Code]](https://github.com/MichalGeyer/plug-and-play)
-+ Bbdm: Image-to-image translation with brownian bridge diffusion models, CVPR 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_BBDM_Image-to-Image_Translation_With_Brownian_Bridge_Diffusion_Models_CVPR_2023_paper.pdf)
++ Bbdm: Image-to-image translation with brownian bridge diffusion models, CVPR 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_BBDM_Image-to-Image_Translation_With_Brownian_Bridge_Diffusion_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/xuekt98/BBDM)
 + Dual diffusion implicit bridges for image-to-image translation, ICLR 2023. [[Paper]](https://arxiv.org/pdf/2203.08382) [[Code]](https://github.com/suxuann/ddib/)
 + Flow matching for generative modeling, ICLR 2023. [[Paper]](https://arxiv.org/pdf/2210.02747) 
 + Diffusion-based image translation using disentangled style and content representation, ICLR 2023. [[Paper]](https://arxiv.org/pdf/2209.15264) [[Code]](https://github.com/cyclomon/DiffuseIT)
